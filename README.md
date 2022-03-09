@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LarsBuck
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning tensorflow
+- 🌱 I’m currently learning visionbased robot controlling
 - 💞️ I’m looking to collaborate on ... idk
 - 📫 How to reach me ... @LarsBuck
 
